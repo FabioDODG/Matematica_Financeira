@@ -11,11 +11,9 @@ while True:
   8 - PCT (Participação de capital de terceiros)
   9 - LC (Liquidez Corrente)
   10 - LS (Liquidez Seca)
-  11 - LI (Liquidez Imediata)
-  12 - AT (Ativo)
-  13 - 
-  1 - Aprender mais sobre cada opção.
-  1 - Sair.
+  11 - LI (Liquidez Imediata) 
+  12 - Aprender mais sobre cada opção.
+  13- Sair.
   ---------------------------------------
   ''')
 
